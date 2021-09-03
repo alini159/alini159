@@ -1,10 +1,10 @@
 # Hey 👋
 
-Ola ! tudo bem com voces ? eu me chamo  **Alini Rodrigues**. Sou acadêmica no curso de Sistemas de Informação na UFMS-CPAN, estou em uma aventura divertida com desenvolvimento mobile e ux-designer.
+Hi ! All right with you ? my name is **Alini Rodrigues**. I'm an academic in the Information Systems course at UFMS-CPAN, I'm on a fun adventure with mobile development and ux-designer.
 
-**⁠🌸 Você não sabia? As mulheres têm que ser fortes para sobreviver! 💪**
+**⁠🌸 Didn't you know? Women have to be strong to survive!  💪**
       
- - 💻 Desenvolvedora de software 
+ - 💻 software developer 
 
 <div>
   <a href="https://github.com/alini159">
