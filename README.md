@@ -1,10 +1,10 @@
 # Hey 👋
 
-Hi ! All right with you ? my name is **Alini Rodrigues**. I'm an academic in the Information Systems course at UFMS-CPAN, I'm on a fun adventure with mobile development and ux-designer.
+Hello! I'm Alini Rodrigues, graduated in Information Systems from UFMS-CPAN. I am currently involved in an exciting journey as a mobile developer and UX designer. As a technology enthusiast, I am always looking for new challenges and opportunities to expand my knowledge and skills.
 
 **⁠🌸 Didn't you know? Women have to be strong to survive!  💪**
       
- - 💻 software developer 
+  💻  software engineer
 
 <div>
   <a href="https://github.com/alini159">
